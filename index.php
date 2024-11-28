@@ -72,5 +72,8 @@ $products = fetchProducts();
             </div>
         </section>
     </main>
+    <script> 
+        console.log('Hello')
+    </script>
 </body>
 </html>
